@@ -1,2 +1,2 @@
 # banana-classification
-Artificially Ripped or Naturally Ripped Banana Classification
+Classifying based on their ripping method naturally or artificially ripped bananas. Tried different classification methods to compare which one works the best.
